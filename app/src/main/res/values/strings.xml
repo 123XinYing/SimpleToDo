@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="add">ADD</string>
+    <string name="clear">CLEAR</string>
+    <string name="delete">DELETE</string>
+    <string-array name="spinnerItems">
+        <item>Add a new task</item>
+        android:hint = "Type in a new task here";
+        <item>Remove a task</item>
+        android:hint = "Type in the index of the task to be removed";
+    </string-array>
+</resources>
